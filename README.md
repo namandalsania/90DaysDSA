@@ -6,5 +6,5 @@ Plan - https://whimsical.com/dsa-in-90-days-EmPkf5utoFGRMnRqJjM6YV
 Space and Time Complexity 
 
 ### Day-2 :
-Time Complexity practice questions & Recursion
+Time Complexity practice questions, Linear Search & Binary Search
 
