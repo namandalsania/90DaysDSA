@@ -11,3 +11,7 @@ Time Complexity practice problems, Linear Search & Binary Search
 ### Day-3:
 Binary Search practice problems
 
+### Day-4:
+Binary Search practice problems, Bubble Sort Algorithm 
+
+
